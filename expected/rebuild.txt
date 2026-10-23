@@ -1,0 +1,6 @@
+base OK: https://github.com/lukevs/k4-ramsey @2cf216b data/constructions/final3840.json.gz, JSON sha256 05302cbc635e939c..., dense sha256 4093a1651998d485...
+wrote ./c89_sign3_crude_0.03013888570.json.gz: n 7680, den 65536, block 40, 1248 explicit blocks
+sha256_dense   c7f0e7cb32258dcdf54003f8d214fcf16d401831f841d56366da8ece3611802e  MATCH
+JSON sha256    63607522d07f8e3b78b1a30aa6e61f27457be05ebd5cf61ced6527c87bdff9ed  MATCH
+file sha256    e37d811da4e8c261f30046c5453bb9c63fd9e9700989a33fccc948074c2b2a47  MATCH
+claim          1126728298914655736634696330762614467/37384537381450758925419573570384691200

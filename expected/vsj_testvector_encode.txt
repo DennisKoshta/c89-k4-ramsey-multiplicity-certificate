@@ -1,0 +1,4 @@
+source JSON sha256 05302cbc635e939cc41f4ba019cdcba80199b0b83563100bac0b1a0d9fff1a29 (matches VSJ id)
+source schema 'rational-step-graphon-v1', den 65536
+dense sha256 4093a1651998d485137e849795e68a3f9535b5c963fe2e3b776733f699b19a87 (matches FORMAT §5)
+wrote ./vsj3840_b20.json.gz: n = 3840, block = 20, null blocks (a<b) = 1248, claim = U_VSJ
